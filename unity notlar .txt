@@ -1,1 +1,5 @@
-battle royale oyununda  nişancı ile düşma arasındaki mesafede distance kullandım 
+
+
+düşman prefablerini sahneye gönder ve boyutunu ayarla 
+
+boyutuyla ilgili   oyuncuya göre ayarla  
